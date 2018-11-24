@@ -18,10 +18,16 @@ echo "alias django-manager='source /home/$USER/.django-manager/dj.sh' " >> /home
 
 # Utilisation
 
-django-manager 
+>> django-manager 
 
-(C|c : pour creer le projet)
+>> (C|c : pour creer le projet)
 
-(L|l : pour lancer le project)
+>> (L|l : pour lancer le project)
 
-Bye.... Merci de Relancer
+# Contact
+
+ecesdevolp@gmail.com
+
+docteurcode@gmail.com
+
++242 06599 70 27
