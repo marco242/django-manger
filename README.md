@@ -1,4 +1,4 @@
-# django-manager (Linux/Script)
+# django-manager (Linux/BashScript)
 
 Django-Manager est un script bash conçu pour la gestion des projets en Django, le script vous crée la machine virtuelle pour chaque projet et install Django2 de plus vous pouvez lancer votre projet une fois que le projet est créé, mais toute fois quand vous lancer un projet non crée le script crée le projet et le lance.
 
