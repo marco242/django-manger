@@ -12,6 +12,16 @@ apt-get update && apt-get upgrade (optionnel)
 
 apt-get install python3 python3-minimal python3-venv python3-pip 
 
-cd && git clone https://github.com/marco242/django-manger.git .django-manager 
+cd && git clone https://github.com/marco242/django-manager.git .django-manager 
 
-echo "alias django-manager='source /home/$USER/.django-manager/dj.sh' " && . /home/$USER/.bashrc
+echo "alias django-manager='source /home/$USER/.django-manager/dj.sh' " >> /home/$USER/.bashrc && source /home/$USER/.bashrc
+
+# Utilisation
+
+django-manager 
+
+(C|c : pour creer le projet)
+
+(L|l : pour lancer le project)
+
+Bye.... Merci de Relancer
