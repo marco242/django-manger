@@ -1,10 +1,10 @@
 # django-manager
 
-Django-Manager est un script bash conçu pour la gestion des projets en Django, le script vous crée la machine virtuelle pour chaque projet et install Django2;de plus vous pouvez lancer votre projet une fois que le projet est créé, mais toutefois quand vous lancer un projet non crée le script crée le projet et le lance.
+Django-Manager est un script bash conçu pour la gestion des projets en Django, le script vous crée la machine virtuelle pour chaque projet et install Django2 de plus vous pouvez lancer votre projet une fois que le projet est créé, mais toute fois quand vous lancer un projet non crée le script crée le projet et le lance.
 
 # Attention 
-Django manager est déconseiller pour les débutant(e)s en devéllopement Web python/Django,
-car ce dernier peut être cause d'un manque de compréhension du mécanisme originale pour l'installation de django
+Django manager est déconseiller pour les débutant(e)s en devéloppement Web python/Django,
+car ce dernier peut être cause d'un manque de compréhension du mécanisme original pour l'installation de django
 
 # Installation
 
